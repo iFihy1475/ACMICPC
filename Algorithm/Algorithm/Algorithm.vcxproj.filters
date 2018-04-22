@@ -13,43 +13,67 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Clear">
+      <UniqueIdentifier>{f24b64fc-d801-4be5-9f02-9839e8b3c95d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2557.cpp">
+    <ClCompile Include="2839.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="1000.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Clear</Filter>
     </ClCompile>
     <ClCompile Include="1001.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="7287.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="10172.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="10718.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="10998.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Clear</Filter>
     </ClCompile>
     <ClCompile Include="1008.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Clear</Filter>
     </ClCompile>
-    <ClCompile Include="10869.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="10430.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="2557.cpp">
+      <Filter>Source Files\Clear</Filter>
     </ClCompile>
     <ClCompile Include="2558.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Clear</Filter>
     </ClCompile>
-    <ClCompile Include="2839.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="7287.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="10172.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="10430.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="10718.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="10869.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="10998.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="2741.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="2742.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="2739.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="2438.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="2439.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="2440.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="2441.cpp">
+      <Filter>Source Files\Clear</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
