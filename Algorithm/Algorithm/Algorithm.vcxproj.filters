@@ -75,5 +75,20 @@
     <ClCompile Include="2441.cpp">
       <Filter>Source Files\Clear</Filter>
     </ClCompile>
+    <ClCompile Include="9498.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="10817.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="10817_2.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="10817_3.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
+    <ClCompile Include="10871.cpp">
+      <Filter>Source Files\Clear</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
